@@ -1,0 +1,3 @@
+rootProject.name = "EOnline"
+include ':app'
+

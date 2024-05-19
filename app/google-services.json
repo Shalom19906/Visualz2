@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141076502786",
+    "project_id": "watch-f365a",
+    "storage_bucket": "watch-f365a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141076502786:android:0229e1da52ed244babca1b",
+        "android_client_info": {
+          "package_name": "com.example.eonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141076502786-nkf8f42jmvtq5s2ce53gcclheiftipl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnPB6nfxgj-xE0n55gweCOGLTzgCS93yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141076502786-nkf8f42jmvtq5s2ce53gcclheiftipl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
